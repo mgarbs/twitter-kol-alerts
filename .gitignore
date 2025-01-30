@@ -1,0 +1,6 @@
+echo ".env
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+notification.mp3" > .gitignore
