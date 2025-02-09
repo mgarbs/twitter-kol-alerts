@@ -1,4 +1,4 @@
-# Twitter Monitor
+# Twitter KOL Alerts
 
 A Python script to monitor Twitter accounts for new tweets in real-time and send notifications to a TG channel.
 
@@ -18,7 +18,7 @@ TELEGRAM_CHANNEL_ID=@you_channel_name
 
 3. Run the script:
 ```bash
-python twitter_monitor.py
+python kol_monitor.py
 ```
 
 ## Configuration
