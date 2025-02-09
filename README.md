@@ -1,6 +1,6 @@
 # Twitter Monitor
 
-A Python script to monitor Twitter accounts for new tweets in real-time.
+A Python script to monitor Twitter accounts for new tweets in real-time and send notifications to a TG channel.
 
 ## Setup
 
@@ -12,6 +12,8 @@ pip install -r requirements.txt
 2. Create a .env file with your Twitter API token:
 ```
 TWITTER_BEARER_TOKEN=your_token_here
+TELEGRAM_BOT_TOKEN=xxx:xxxxxx
+TELEGRAM_CHANNEL_ID=@you_channel_name
 ```
 
 3. Run the script:
